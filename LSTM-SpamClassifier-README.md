@@ -8,5 +8,5 @@
 ### - Pad sequences
 ### - Build model
 ### - Train the model
-## - Evaluate model performance 
+### - Evaluate model performance 
 ### - Use model to classify new message
